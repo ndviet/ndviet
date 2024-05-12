@@ -67,8 +67,6 @@ WakaTime</a> </h3>
 
 > 📦 3.6 kB Used in GitHub's Storage 
  > 
-> 🏆 334 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 1 Public Repository 
@@ -134,5 +132,5 @@ Smarty                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2024 21:07:31 UTC
+ Last Updated on 12/05/2024 22:06:59 UTC
 <!--END_SECTION:waka-->
