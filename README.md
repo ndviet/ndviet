@@ -57,7 +57,7 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-945%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
@@ -134,5 +134,5 @@ Smarty                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2024 16:08:31 UTC
+ Last Updated on 02/06/2024 17:07:32 UTC
 <!--END_SECTION:waka-->
