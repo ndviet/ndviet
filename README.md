@@ -59,7 +59,7 @@ WakaTime</a> </h3>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.1%20thousand%20lines%20of%20code-blue)
 
@@ -133,5 +133,5 @@ Smarty                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2024 09:08:15 UTC
+ Last Updated on 08/06/2024 10:07:40 UTC
 <!--END_SECTION:waka-->
