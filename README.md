@@ -57,7 +57,7 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C094%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C095%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -66,8 +66,6 @@ WakaTime</a> </h3>
 **🐱 My GitHub Data** 
 
 > 📦 8.4 kB Used in GitHub's Storage 
- > 
-> 🏆 348 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -136,5 +134,5 @@ Smarty                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2024 03:07:41 UTC
+ Last Updated on 30/06/2024 04:08:31 UTC
 <!--END_SECTION:waka-->
