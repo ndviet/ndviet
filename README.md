@@ -65,7 +65,7 @@ WakaTime</a> </h3>
 
 **🐱 My GitHub Data** 
 
-> 📦 8.9 kB Used in GitHub's Storage 
+> 📦 8.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -132,5 +132,5 @@ Smarty                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2024 19:07:23 UTC
+ Last Updated on 15/07/2024 20:08:14 UTC
 <!--END_SECTION:waka-->
