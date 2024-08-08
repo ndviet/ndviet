@@ -57,9 +57,9 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C284%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C293%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-113.5%20thousand%20lines%20of%20code-blue)
 
@@ -102,17 +102,17 @@ Sunday                   131 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Bash                     5 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-RobotFramework           5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Docker                   3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-YAML                     2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Makefile                 2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Bash                     8 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.70 % 
+Docker                   3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+RobotFramework           3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Shell Script             2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+YAML                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 
 🔥 Editors: 
-IntelliJ IDEA            24 hrs 58 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            25 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 hrs 50 mins      █████████████████████████   99.44 % 
+Linux                    24 hrs 56 mins      █████████████████████████   99.44 % 
 Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
@@ -133,5 +133,5 @@ Smarty                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2024 18:28:51 UTC
+ Last Updated on 08/08/2024 01:26:46 UTC
 <!--END_SECTION:waka-->
