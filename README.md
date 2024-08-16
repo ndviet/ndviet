@@ -57,9 +57,9 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C336%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C345%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-81.4%20thousand%20lines%20of%20code-blue)
 
@@ -102,18 +102,18 @@ Sunday                   157 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-YAML                     11 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-Bash                     7 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-RobotFramework           5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Makefile                 4 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Markdown                 3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+YAML                     16 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   35.22 % 
+Bash                     6 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Makefile                 4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+RobotFramework           4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Markdown                 3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 🔥 Editors: 
-IntelliJ IDEA            44 hrs 55 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            46 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    44 hrs 28 mins      █████████████████████████   98.99 % 
-Windows                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Linux                    45 hrs 48 mins      █████████████████████████   99.02 % 
+Windows                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 
 **I Mostly Code in Java** 
@@ -133,5 +133,5 @@ Smarty                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2024 18:30:26 UTC
+ Last Updated on 16/08/2024 01:27:08 UTC
 <!--END_SECTION:waka-->
