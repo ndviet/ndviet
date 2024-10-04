@@ -57,7 +57,7 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C604%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C606%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -65,7 +65,7 @@ WakaTime</a> </h3>
 
 **🐱 My GitHub Data** 
 
-> 📦 15.1 kB Used in GitHub's Storage 
+> 📦 15.2 kB Used in GitHub's Storage 
  > 
 > 🏆 511 Contributions in the Year 2024
  > 
@@ -89,8 +89,8 @@ WakaTime</a> </h3>
 Monday                   481 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
 Tuesday                  452 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
 Wednesday                498 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Thursday                 401 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Friday                   263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Thursday                 400 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Friday                   264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 Saturday                 219 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 Sunday                   193 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 ```
@@ -132,5 +132,5 @@ Smarty                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2024 06:33:36 UTC
+ Last Updated on 04/10/2024 12:44:23 UTC
 <!--END_SECTION:waka-->
