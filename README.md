@@ -59,15 +59,13 @@ WakaTime</a> </h3>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C606%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-146.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 15.2 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
+> 📦 15.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -102,17 +100,17 @@ Sunday                   193 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Terraform                12 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   32.21 % 
-Python                   4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-YAML                     3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Go                       3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-RobotFramework           3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Terraform                8 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+Python                   4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Go                       3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+YAML                     3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+RobotFramework           3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🔥 Editors: 
-IntelliJ IDEA            40 hrs              █████████████████████████   100.00 % 
+IntelliJ IDEA            34 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    40 hrs              █████████████████████████   100.00 % 
+Linux                    34 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -132,5 +130,5 @@ Smarty                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2024 18:29:19 UTC
+ Last Updated on 07/10/2024 01:46:53 UTC
 <!--END_SECTION:waka-->
