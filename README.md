@@ -57,15 +57,15 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C700%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C703%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-230.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 17.2 kB Used in GitHub's Storage 
+> 📦 17.3 kB Used in GitHub's Storage 
  > 
 > 🏆 548 Contributions in the Year 2024
  > 
@@ -102,18 +102,18 @@ Sunday                   308 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Java                     13 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   28.78 % 
-RobotFramework           8 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-TypeScript               7 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Python                   3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-YAML                     3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Java                     13 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   30.00 % 
+RobotFramework           8 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+TypeScript               7 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Python                   3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+YAML                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 🔥 Editors: 
-IntelliJ IDEA            47 hrs 11 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            45 hrs 21 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    47 hrs 8 mins       █████████████████████████   99.88 % 
-Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Linux                    45 hrs 18 mins      █████████████████████████   99.87 % 
+Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 **I Mostly Code in Java** 
@@ -133,5 +133,5 @@ Smarty                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2024 18:30:07 UTC
+ Last Updated on 21/10/2024 01:47:18 UTC
 <!--END_SECTION:waka-->
