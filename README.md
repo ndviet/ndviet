@@ -57,11 +57,11 @@
 WakaTime</a> </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C151%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C151%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-562.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-562.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,16 +78,16 @@ WakaTime</a> </h3>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1685 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-🌆 Daytime                2342 commits        ████████░░░░░░░░░░░░░░░░░   33.03 % 
-🌃 Evening                2012 commits        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+🌞 Morning                1685 commits        ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+🌆 Daytime                2343 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
+🌃 Evening                2012 commits        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
 🌙 Night                  1051 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1159 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Tuesday                  1253 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Monday                   1159 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Tuesday                  1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
 Wednesday                1441 commits        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
 Thursday                 1228 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
 Friday                   927 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
@@ -136,5 +136,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VietND96/VietND96/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2025 01:44:41 UTC
+ Last Updated on 06/02/2025 06:34:45 UTC
 <!--END_SECTION:waka-->
